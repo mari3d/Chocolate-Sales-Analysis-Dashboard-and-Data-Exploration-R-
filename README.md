@@ -21,3 +21,9 @@ Le dataset utilisé provient de **Kaggle**.
 Il n’est pas inclus dans ce repository pour des raisons de licence.
 
 
+## 🔗 Dashboard en ligne
+
+
+## 📸 Aperçu
+![Dashboard Screenshot]
+
